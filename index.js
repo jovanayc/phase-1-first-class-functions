@@ -14,7 +14,7 @@ function returnsANamedFunction (){
 }
 
 const returnsAnAnonymousFunction = () => {
-    return function (){console.log(`How many fruits a week?`);}
+    return function (){1+1;}
 }
 
 /*
